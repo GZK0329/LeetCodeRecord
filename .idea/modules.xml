@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BFS/BFS.iml" filepath="$PROJECT_DIR$/BFS/BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm-test.iml" filepath="$PROJECT_DIR$/algorithm-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/回溯算法/回溯算法.iml" filepath="$PROJECT_DIR$/回溯算法/回溯算法.iml" />
     </modules>
