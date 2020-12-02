@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/algorithm-test.iml" filepath="$PROJECT_DIR$/algorithm-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/二分/二分.iml" filepath="$PROJECT_DIR$/二分/二分.iml" />
       <module fileurl="file://$PROJECT_DIR$/回溯算法/回溯算法.iml" filepath="$PROJECT_DIR$/回溯算法/回溯算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/贪心/贪心.iml" filepath="$PROJECT_DIR$/贪心/贪心.iml" />
     </modules>
   </component>
 </project>
