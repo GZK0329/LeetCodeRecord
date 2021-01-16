@@ -7,7 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/DFS/DFS.iml" filepath="$PROJECT_DIR$/DFS/DFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hash/Hash.iml" filepath="$PROJECT_DIR$/Hash/Hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListNode/ListNode.iml" filepath="$PROJECT_DIR$/ListNode/ListNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
       <module fileurl="file://$PROJECT_DIR$/SORT/SORT.iml" filepath="$PROJECT_DIR$/SORT/SORT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnionFind/UnionFind.iml" filepath="$PROJECT_DIR$/UnionFind/UnionFind.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm-test.iml" filepath="$PROJECT_DIR$/algorithm-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/二分/二分.iml" filepath="$PROJECT_DIR$/二分/二分.iml" />
       <module fileurl="file://$PROJECT_DIR$/回溯算法/回溯算法.iml" filepath="$PROJECT_DIR$/回溯算法/回溯算法.iml" />
